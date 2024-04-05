@@ -1,0 +1,50 @@
+.portfolio{
+   
+}
+
+.portfolio .port-intro{
+    height: 180px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.port-intro h2{
+    font-family: Inter;
+font-size: 19px;
+font-weight: 500;
+line-height: 27px;
+letter-spacing: 0.1em;
+
+color: #6280BF;
+
+}
+.port-intro h1{
+    font-family: Inter;
+font-size: 25px;
+font-weight: 600;
+line-height: 27px;
+letter-spacing: 0.1em;
+/* text-decoration: underline; */
+
+text-decoration: none;
+position: relative
+
+
+}
+
+.port-intro h1 a{
+    color: #6280BF;
+    text-decoration: none;
+}
+
+.port-intro h1 ::after{
+    content: '';
+  display: block;
+  width: 301px; 
+  height: 1px; /* Adjust the thickness of the underline */
+  background-color: #6280BF; /* Adjust the color of the underline */
+  position: absolute;
+  bottom: -2px; /* Adjust to control the distance between the text and underline */
+  left: 38%; 
+}

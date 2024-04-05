@@ -1,0 +1,33 @@
+.testimonial-card {
+  width: 136px;
+  height: 144px;
+
+  border-radius: 7px 0px 0px 0px;
+  border: 2px 0px 0px 0px;
+  border: 2px solid #6280bf;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  img {
+    width: 20px;
+  }
+  h2 {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.02em;
+    text-align: center;
+
+    span {
+      font-family: Inter;
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 22px;
+      letter-spacing: 0.02em;
+      text-align: center;
+    }
+  }
+}

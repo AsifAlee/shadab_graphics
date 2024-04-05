@@ -1,0 +1,30 @@
+.service-card {
+  width: 126px;
+  height: 89px;
+  top: 1138px;
+  left: 77px;
+  gap: 0px;
+  border-radius: 10px 0px 0px 0px;
+  opacity: 0px;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  img {
+    width: 26px;
+    height: 26px;
+
+    opacity: 0px;
+  }
+  span {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #6280bf;
+  }
+}

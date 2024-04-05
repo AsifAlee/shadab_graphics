@@ -1,0 +1,36 @@
+.projects {
+  .heading {
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0.1em;
+    text-align: center;
+  }
+  .text {
+    font-family: Inria Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #455a64b5;
+  }
+}
+.completed-projects {
+  margin-top: 40px !important;
+  width: 80%;
+  margin: 0 auto;
+  .single-project {
+    width: 217px;
+    height: 224px;
+
+    border-radius: 10px 0px 0px 0px;
+    border: 2px 0px 0px 0px;
+    background-color: #ffffff;
+    border: 2px solid #6280bf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
