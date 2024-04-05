@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shadab_graphics/static/css/main.80cdc8f2.css",
+    "main.js": "/shadab_graphics/static/js/main.fcd08c2b.js",
+    "static/js/453.67984d32.chunk.js": "/shadab_graphics/static/js/453.67984d32.chunk.js",
+    "static/media/row2.png": "/shadab_graphics/static/media/row2.ceb63f56142cb6102bd9.png",
+    "static/media/row4.png": "/shadab_graphics/static/media/row4.ee52ad16b5df40877668.png",
+    "static/media/row3.png": "/shadab_graphics/static/media/row3.d08cabf401410790fb00.png",
+    "static/media/row1.png": "/shadab_graphics/static/media/row1.9294b0eb5933d4b4cd62.png",
+    "static/media/message-img.png": "/shadab_graphics/static/media/message-img.afcf8c067387b4c8273a.png",
+    "static/media/contact-today-im.png": "/shadab_graphics/static/media/contact-today-im.ad1c08deb5bcd4f15158.png",
+    "static/media/bussiness-man.png": "/shadab_graphics/static/media/bussiness-man.de4a591569def7c86401.png",
+    "static/media/marq-img.png": "/shadab_graphics/static/media/marq-img.b0bc30937b424656bd1e.png",
+    "static/media/proj3.png": "/shadab_graphics/static/media/proj3.7d754b3ac49cba09c039.png",
+    "static/media/proj2.png": "/shadab_graphics/static/media/proj2.499f813b4e5ec83650c1.png",
+    "static/media/proj1.png": "/shadab_graphics/static/media/proj1.e15b6bf818ed4842dae7.png",
+    "index.html": "/shadab_graphics/index.html",
+    "main.80cdc8f2.css.map": "/shadab_graphics/static/css/main.80cdc8f2.css.map",
+    "main.fcd08c2b.js.map": "/shadab_graphics/static/js/main.fcd08c2b.js.map",
+    "453.67984d32.chunk.js.map": "/shadab_graphics/static/js/453.67984d32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80cdc8f2.css",
+    "static/js/main.fcd08c2b.js"
+  ]
+}
